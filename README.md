@@ -3,7 +3,7 @@
 # Clone o Repositório
 
 ```bash
-git clone https://github.com/mateus1010mateus/meus-projetos-python.git
+git clone https://github.com/mateus1010mateus/interactive-hsv-adjustment.git
 ```
 
 
