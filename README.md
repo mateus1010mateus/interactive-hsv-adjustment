@@ -4,6 +4,7 @@
 
 ```bash
 git clone https://github.com/mateus1010mateus/meus-projetos-python.git
+'''
 
 Explicação do Código em Português
 Este código em Python utiliza a biblioteca OpenCV para permitir ajustes interativos nos valores de HSV (Matiz, Saturação, Valor) e na tolerância de uma imagem. Através de barras deslizantes (trackbars), você pode ajustar esses parâmetros e visualizar os efeitos na imagem em tempo real.
