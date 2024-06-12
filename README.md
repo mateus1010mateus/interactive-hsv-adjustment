@@ -18,6 +18,8 @@ Atualização da Imagem: A função atualizar_imagem() é chamada sempre que os 
 Finalização: O loop continua até que a tecla 's' seja pressionada, encerrando o ajuste interativo.
 Cálculo da Tolerância Média: Após a interação, a função calcular_tolerancia_media() é utilizada para determinar a média da tolerância ajustada.
 Exibição dos Resultados: Os valores finais de HSV e a tolerância média são exibidos.
+
+
 Code Explanation in English
 This Python code utilizes the OpenCV library to allow interactive adjustments of HSV (Hue, Saturation, Value) values and tolerance for an image. Using trackbars, you can adjust these parameters and visualize their effects on the image in real-time.
 
